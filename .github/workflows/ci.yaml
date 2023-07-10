@@ -30,6 +30,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: false
-          tags: wesleywillians/fc2.0-ci-go:latest
+          tags: valdyrtorres/fc2.0-ci-go:latest
 
     
